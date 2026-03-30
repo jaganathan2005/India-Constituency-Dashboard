@@ -20,4 +20,4 @@ Regional political dynamics vary significantly across states despite national tr
 📸 Dashboard Preview
 https://github.com/jaganathan2005/India-Constituency-Dashboard/blob/main/dashboard.png
 🔗 Project File
-
+https://github.com/jaganathan2005/India-Constituency-Dashboard/blob/main/india-dashboard.pbix
