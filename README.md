@@ -18,4 +18,6 @@ Data Cleaning & Transformation
 Regional political dynamics vary significantly across states despite national trends.
 
 📸 Dashboard Preview
+https://github.com/jaganathan2005/India-Constituency-Dashboard/blob/main/dashboard.png
+🔗 Project File
 
